@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<!-- Mirrored from mdbootstrap.com/previews/templates/portfolio/html/web-developer.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 25 Aug 2020 08:48:54 GMT -->
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 
-	<title>Material Design Bootstrap</title>
+	<title>Ravindra Mahto</title>
 
 	<!-- Font Awesome -->
 	<link rel="stylesheet" href="use.fontawesome.com/releases/v5.7.0/css/all.css">
@@ -48,7 +46,7 @@
         <!-- Navbar -->
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
             <div class="container">
-                <a class="navbar-brand" href="#">Navbar</a>
+                <a class="navbar-brand" href="#">Ravindra Mahto</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -93,8 +91,8 @@
                     <div class="row smooth-scroll">
                         <div class="col-md-12 pt-3">
                             <div class="white-text text-center pt-5">
-                                <h1 class="display-2 mb-4 dark-grey-text wow fadeIn">I am <strong>John Doe</strong></h1>
-                                <h5 class="text-uppercase font-weight-bold wow fadeIn" data-wow-delay="0.4s"><mark>Web developer & graphic designer</mark></h5>
+                                <h1 class="display-2 mb-4 dark-grey-text wow fadeIn">I am <strong>Ravindra Mahto</strong></h1>
+                                <h5 class="text-uppercase font-weight-bold wow fadeIn" data-wow-delay="0.4s"><mark>Software Developer & Web developer </mark></h5>
                                 <a href="#about" class="btn btn-floating btn-large wow fadeIn" data-wow-delay="0.4s" data-offset="100"><i class="fas fa-angle-down" aria-hidden="true"></i></a>
                             </div>
                         </div>
@@ -443,9 +441,9 @@
             <!--Section: Contact v.2-->
             <section class="section contact-section mt-4 mb-5">
                 <!--Section heading-->
-                <h2 class="text-center text-uppercase my-5 pt-5 wow fadeIn" data-wow-delay="0.2s">Contact <strong>me</strong></h2>
+                <h2 class="text-center text-uppercase my-5 pt-5 wow fadeIn" data-wow-delay="0.2s">I’D LOVE TO HEAR FROM  <strong>You</strong></h2>
                 <!--Section sescription-->
-                <p class="text-center w-responsive mx-auto mb-5 pb-4 wow fadeIn" data-wow-delay="0.2s">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, error amet numquam iure provident voluptate esse quasi, veritatis totam voluptas nostrum quisquam eum porro a pariatur accusamus veniam. </p>
+                <p class="text-center w-responsive mx-auto mb-5 pb-4 wow fadeIn" data-wow-delay="0.2s">Whether you have a query about , Software , Website or anything else I'm glad to answer all your query.. </p>
                 <div class="row wow fadeIn" data-wow-delay="0.4s">
 
                     <!--First column-->
@@ -506,13 +504,13 @@
                     <div class="col-md-4">
                         <ul class="contact-icons list-unstyled text-center">
                             <li><i class="fas fa-map-marker-alt fa-2x"></i>
-                                <p>New York, NY 10012, USA</p>
+                                <p>Jharakhand, Ranchi 835217, India</p>
                             </li>
                             <li><i class="fas fa-phone fa-2x"></i>
                                 <p>+ 01 234 567 89</p>
                             </li>
                             <li><i class="fas fa-envelope fa-2x"></i>
-                                <p>contact@mdbootstrap.com</p>
+                                <p>contact@ravindramahto.com</p>
                             </li>
                         </ul>
                     </div>
@@ -586,5 +584,4 @@
 
 </body>
 
-<!-- Mirrored from mdbootstrap.com/previews/templates/portfolio/html/web-developer.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 25 Aug 2020 08:49:35 GMT -->
 </html>
